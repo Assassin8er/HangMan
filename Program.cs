@@ -19,8 +19,6 @@ namespace HANGMAN
             Console.WriteLine(" -You have to guess the hidden word");
             Console.WriteLine(" -You have Six guesses");
             Console.WriteLine();
-            
-
 
 
             while (!done)
